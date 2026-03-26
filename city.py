@@ -1,4 +1,4 @@
-### tpw08/city.py
+### section08/city.py
 import sys, os
 
 # Add chap11 to import path

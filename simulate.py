@@ -1,4 +1,4 @@
-### tpw08/simulate.py
+### section08/simulate.py
 import time
 from city import CitySqGrid
 from consts import NO_CAR, NO_DEST, NO_RIDER, NOTHING, EVERYTHING, DELAY

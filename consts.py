@@ -1,4 +1,4 @@
-### tpw08/consts.py
+### section08/consts.py
 
 # Seconds between simulation time steps
 DELAY = 1.0

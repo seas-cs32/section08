@@ -1,4 +1,4 @@
-### tpw08/compare.py
+### section08/compare.py
 import random
 from city import CitySqGrid
 from consts import NOTHING
